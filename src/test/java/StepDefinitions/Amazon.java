@@ -39,7 +39,7 @@ public class Amazon {
 
     @Then("I am logged in")
     public void i_am_logged_in() {
-        // No additional steps needed, as login is already performed in the previous step
+        //Done already in the previous step
     }
 
     @Then("I search different {string} from the search bar")
